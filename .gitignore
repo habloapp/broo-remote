@@ -1,0 +1,5 @@
+.env.broo-remote
+logs/
+broo-remote
+*.db
+*.pid
